@@ -1,0 +1,13 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f8f9fa; /* Optional background color */
+}
+
+.countdown {
+    font-size: 72px; /* Increase the font size */
+    text-align: center; /* Center-align the text */
+}
